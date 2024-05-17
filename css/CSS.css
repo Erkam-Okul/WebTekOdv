@@ -1,0 +1,18 @@
+  .container-fluid {
+  position: relative;
+  text-align: center;
+  color: pink;
+}
+.centered-paragraph {
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: black;
+}
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
